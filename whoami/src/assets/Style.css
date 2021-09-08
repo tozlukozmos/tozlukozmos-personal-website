@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Glory&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Glory', sans-serif;
+}
+body {
+    background-image: url('./background-image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+    
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
