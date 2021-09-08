@@ -1,4 +1,4 @@
-# whoami-personal-website
+# tozlukozmos-personal-website
  I designed and created a personal website
  
  CREDITS:
